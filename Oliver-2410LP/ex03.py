@@ -1,0 +1,5 @@
+nome = input("Qual é seu nome? ")
+salario = float(input("Qual é seu sálario R$"))
+print(f"Nome do funcionário: {nome}")
+print(f"Salario: {salario}")
+print(f"O funcionario {nome} tem um salario de R${salario} em junho.")
